@@ -1,0 +1,1 @@
+{"description":"A live free-model aggregator for make.fun's free-model-aggregator-02: OpenAI + Anthropic wires in, the highest-rated free OpenRouter model out, with failover.","license":"MIT","main":"main.ts","name":"freemodel-aggregator-02","scripts":{"list":"node main.ts --list","start":"node main.ts"},"type":"module","version":"1.0.0"}
