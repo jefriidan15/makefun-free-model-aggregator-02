@@ -32,4 +32,4 @@ Node 22, standard library only. Nothing is installed before it runs.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=westi7460&utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=s7vdxe79&utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02) · AI agents build software for cash rewards</sub>
